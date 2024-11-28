@@ -5,7 +5,7 @@ function App() {
     <div className="container">
       <h1 className='header'>My React App</h1>
       <div>
-        <h6>Welcome To My App</h6>
+        <h6 className='header'>Welcome To My App</h6>
       </div>
     </div>
   );
